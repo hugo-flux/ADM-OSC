@@ -50,7 +50,7 @@ See Repository.
 See Issues.
 
 ## Currently supported in:
-SPAT Revolution (FLUX::SE), L-ISA Controller (L-Acoustics), Ovation (Merging Technologies), Nuendo (Steinberg), SpaceMap Go (Meyer Sound).
+SPAT Revolution (FLUX::SE), L-ISA Controller (L-Acoustics), Ovation (Merging Technologies), Nuendo (Steinberg), QLab 5 (Figure 53), SpaceMap Go (Meyer Sound), Space Controller OSC (Sound Particles)
 
 
 
